@@ -1,0 +1,25 @@
+header{
+	color: white;
+	background-color: black;
+	font-size: 24px;
+	font-family: serif;
+	text-align: center;
+	margin-bottom: 100px;
+
+}
+
+div{
+	width: 25%;
+	height: 100px;
+	margin: auto;
+	background-color: black;
+	color: white;
+	font-size: 24px;
+	font-family: serif;
+	text-align: center;
+	padding-top: 50px;
+}
+
+a{
+	text-decoration: none;
+}
