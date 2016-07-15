@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #DC143C;
+}
+
+h1 {
+	text-align: center;
+	color: #DC143C;
+	font-size: 50px;
+	background-color: #FFF8DC;
+	margin-bottom: 30vh;
+}
+
+div {
+	width: 50%;
+	font-size: 1.5em;
+	margin: auto;
+	background-color: #FFF8DC;
+	min-height: 200px;
+	text-align: center;
+	padding: 50px 10px;
+	color: #DC143C;
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
+div:hover {
+	background-color: #8B008B;
+	color: white;
+}
+
+#play {
+	height: 20px;
+	border-radius: 10px;
+	background-color: #DC143C;
+	color: #FFF8DC;
+	cursor: pointer;
+}
+
+#play:hover {
+	background-color: black;
+}
