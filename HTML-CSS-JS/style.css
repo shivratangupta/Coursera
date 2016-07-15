@@ -31,8 +31,8 @@ a{
 }
 
 @media (max-width: 760px){
-	div{
+	div {
 		width: 98%;
-		clear:both;
+		clear: both;
 	}
 }
