@@ -43,3 +43,8 @@ div:hover {
 #play:hover {
 	background-color: black;
 }
+
+footer {
+	text-align: right;
+	color: white;
+}
